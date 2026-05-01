@@ -24,8 +24,7 @@ Note:
 
         2. Supply an absolute path, not a relative path.
 
-        3. Make sure the m3u file is complete, uses absolute filepaths as much
-            as possible, and has the essential metadata.
+        3. Make sure the m3u file is complete, uses absolute filepaths always, and has the essential metadata.
 
         4. All files mentioned in the m3u file must be available in Plex and be
             in the given library.
